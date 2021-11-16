@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayelenklas/code/ayelenklas/TaxiFareModel/mlruns/1/9b36a3fcef594ae2ae319b031556cc0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9b36a3fcef594ae2ae319b031556cc0b
+run_uuid: 9b36a3fcef594ae2ae319b031556cc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637075445754
+status: 1
+tags: []
+user_id: unknown
